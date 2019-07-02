@@ -1,0 +1,8 @@
+.klasa2{
+-fx-graphic: url("plus.png");
+-fx-graphic-text-gap: 15px;
+}
+.klasa1{
+-fx-graphic: url("delete-button.png");
+-fx-graphic-text-gap: 15px;
+}
